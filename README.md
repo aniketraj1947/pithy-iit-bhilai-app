@@ -1,6 +1,6 @@
 # Pithy: IIT Bhilai Student Companion App 
 
-### Download Link - https://cloudapks.com/app/club.pithynews.pithy_iitbhilaiapp/
+#### Download Link - https://cloudapks.com/app/club.pithynews.pithy_iitbhilaiapp/
 ![Screenshot 2024-02-06 at 12 48 19 PM](https://github.com/aniketraj1947/pithy/assets/39947497/22435543-76e7-4df5-b16f-d5f753d30aef)
 
 ## Overview
