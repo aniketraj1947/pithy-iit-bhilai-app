@@ -1,4 +1,6 @@
+
 # Pithy: IIT Bhilai Student Companion App 
+![Screenshot 2024-02-06 at 12 50 55 PM](https://github.com/aniketraj1947/pithy/assets/39947497/84013361-a70b-41ae-a3e5-99d4d8006284)
 
 #### Download Link - https://cloudapks.com/app/club.pithynews.pithy_iitbhilaiapp/
 ![Screenshot 2024-02-06 at 12 48 19 PM](https://github.com/aniketraj1947/pithy/assets/39947497/22435543-76e7-4df5-b16f-d5f753d30aef)
@@ -35,10 +37,4 @@ Discover and join various clubs and councils on campus. Stay updated on their ac
 
 ## Compatibility
 
-Pithy is designed exclusively for the intranet of IIT Bhilai. Make sure you are connected to the institute's network for seamless access to all features.
-
-## Feedback and Support
-
-We welcome feedback and suggestions to improve Pithy. For any issues or queries, please contact our support team at support@pithyapp.iitb.ac.in.
-
-Download Pithy now and enhance your IIT Bhilai experience!
+Pithy is designed exclusively for the intranet of IIT Bhilai. Make sure you are connected to the institute's network for access to all features.
